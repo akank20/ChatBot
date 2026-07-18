@@ -1,4 +1,4 @@
 openrouter:
-   api_key: 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
+   api_key: sample-key
 deepseek:
    api_key: sample-key
